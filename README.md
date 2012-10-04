@@ -1,7 +1,7 @@
-jquery.pixie.js
+Pixie.js
 ===============
 
-Sprite Based Animation Plugin for JQuery
+Sprite Based Animation Plugin for Javascript
 
 Example Usage:
 
