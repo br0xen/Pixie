@@ -1,6 +1,6 @@
 Example Usage:
 
-
+``
 var pixie_var;
 window.addEventListener('load',function(){
   var anim = {
@@ -17,3 +17,4 @@ window.addEventListener('load',function(){
   };
   pixie_var = new Pixie({animation:anim,start:true,speed:(1000/30)});
 });
+``
