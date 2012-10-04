@@ -1,5 +1,9 @@
-Example Usage:
+jquery.pixie.js
+===============
 
+Sprite Based Animation Plugin for JQuery
+
+Example Usage:
 
 ```javascript
 var pixie_var;
